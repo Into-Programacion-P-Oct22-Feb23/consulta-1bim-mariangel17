@@ -1,0 +1,3 @@
+nombre_niño = input("Ingrese el nombre del niño: ")
+edad = int(input("Ingrese la edad del niño"))
+tipo_niño = int(input("Ingrese el tipo de niño"))

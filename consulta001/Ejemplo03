@@ -1,0 +1,4 @@
+nombre = input("Ingrese el nombre: ")
+apellido = input("Ingrese el apellido: ")
+cedula = int(input("Ingrese la cedula"))
+edad = int(input("Ingrese la edad"))
